@@ -187,7 +187,7 @@ Because the model mirrors a standard **apparel SO → costing → production →
 
 ### Sales Overview
 
-![Sales Overview](Screenshots/sales-overview.png)
+![Sales Overview](Screenshots/home.png)
 
 
 ## 🎓 Project Context
