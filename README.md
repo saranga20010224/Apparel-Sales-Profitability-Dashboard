@@ -201,7 +201,7 @@ Raw sales order data was extracted from **SAP**, cleaned and prepared in **Excel
 ## 👨‍💻 Author
 
 ## Saranga Rathnayaka
-** Business Analyst | Data Analyst
+#### Business Analyst | Data Analyst
 **BSc in Industrial Statistics and Mathematical Finance**
 University of Colombo
 
